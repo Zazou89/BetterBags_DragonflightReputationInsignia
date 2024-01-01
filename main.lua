@@ -43,4 +43,4 @@ categories:AddItemToCategory(210420, L:G("Reputation Insignia")) --Dream Wardens
 categories:AddItemToCategory(210421, L:G("Reputation Insignia")) --Dream Wardens Insignia (Purple - A Worthy Ally quest)
 categories:AddItemToCategory(211416, L:G("Reputation Insignia")) --Dream Wardens Insignia (Purple - Weekly Event)
 categories:AddItemToCategory(211423, L:G("Reputation Insignia")) --Dream Wardens Insignia (Purple)
-categories:AddItemToCategory(210417, L:G("Reputation Insignia")) --Dream Wardens Insignia (Purple - Drop)
+categories:AddItemToCategory(211417, L:G("Reputation Insignia")) --Dream Wardens Insignia (Purple - Drop)
