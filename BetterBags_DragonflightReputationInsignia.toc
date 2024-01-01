@@ -1,0 +1,8 @@
+## Interface: 100200
+## Title: BetterBags - Dragonflight Reputation Insignia
+## Author: Zazou
+## Version: 1.0.0
+## Notes: Category for all the Dragonflight Reputation Insignia.
+## X-Curse-Project-ID: 956577
+
+main.lua
