@@ -4,5 +4,6 @@
 ## Version: 1.0.0
 ## Notes: Category for all the Dragonflight Reputation Insignia.
 ## X-Curse-Project-ID: 956577
+## IconTexture: Interface\Icons\ui_majorfaction_tuskarr
 
 main.lua
