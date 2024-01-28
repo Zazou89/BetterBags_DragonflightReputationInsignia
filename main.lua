@@ -85,7 +85,7 @@ local DreamWardens = {
     210420, --Dream Wardens Insignia (Blue)
     210421, --Dream Wardens Insignia (Purple - A Worthy Ally quest)
     211416, --Dream Wardens Insignia (Purple - Weekly Event)
-    211423, --Dream Wardens Insignia (Purple)
+    210423, --Dream Wardens Insignia (Purple)
     211417, --Dream Wardens Insignia (Purple - Drop)
     210730, --Mark of the Dream Wardens (Reward from The Looming Cinder)
     210423, --Dream Wardens Insignia (Purple - ??)
