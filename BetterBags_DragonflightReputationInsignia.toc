@@ -3,6 +3,7 @@
 ## Author: Zazou
 ## Version: 1.0.4
 ## Notes: Category for all the Dragonflight Reputation Insignia.
+## Dependencies: BetterBags
 ## X-Curse-Project-ID: 956577
 ## IconTexture: Interface\Icons\ui_majorfaction_tuskarr
 
