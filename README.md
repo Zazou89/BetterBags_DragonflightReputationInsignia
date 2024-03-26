@@ -1,8 +1,6 @@
 # BetterBags - Dragonflight Reputation Insignia
 
-This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Dragonflight Reputation Insignia.
-
-It lists items from : 
+This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Dragonflight Reputation Insignia, including:
 
 - Dragonscale Expedition
 - Iskaara Tuskarr
