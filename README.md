@@ -2,6 +2,17 @@
 
 This addon must be used with [BetterBags](https://www.curseforge.com/wow/addons/better-bags). It creates a new category for all Dragonflight Reputation Insignia.
 
+It lists items from : 
+
+- Dragonscale Expedition
+- Iskaara Tuskarr
+- Maruuk Centaur
+- Valdrakken Accord
+- Artisan's Consortium
+- Wrathion & Sabellian
+- Loamm Niffen
+- Dream Wardens
+
 # Display the Reputation Section
 
 Make sure you have enabled *BetterBags* and *Betterbags - Dragonflight Reputation Insignia* Addons. Then open your bags, click on the bag icon, navigate to the **Section Categories**  and check **Reputation Insignia**.
