@@ -1,7 +1,7 @@
 ## Interface: 100207, 110000, 110002
 ## Title: BetterBags - Dragonflight Reputation Insignia
 ## Author: Zazou
-## Version: 1.0.9
+## Version: @project-version@
 ## Notes: Category for all the Dragonflight Reputation Insignia.
 ## Dependencies: BetterBags
 ## X-Curse-Project-ID: 956577
