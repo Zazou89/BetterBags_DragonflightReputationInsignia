@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 110007, 110100
 ## Title: BetterBags - Dragonflight Reputation Insignia
 ## Author: Zazou
 ## Version: @project-version@
